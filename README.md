@@ -1,4 +1,4 @@
-# DevOps Project: Static Website Deployment using Terraform and Ansible
+# Linux Configuration Management & Deployment with Ansible
 
 ## 📄 Project Overview
 
