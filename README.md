@@ -6,8 +6,6 @@ This project showcases a fully automated DevOps pipeline for deploying a **stati
 
 * **Terraform** provisions Azure resources like VM, network interfaces, and security groups.
 * **Ansible** installs and configures the NGINX web server, and deploys a static website.
-* All project files are hosted on GitHub:
-  [https://github.com/ArsalanAftab84/Devops\_Project](https://github.com/ArsalanAftab84/Devops_Project)
 
 ---
 
