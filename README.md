@@ -1,4 +1,4 @@
-# Linux Configuration Management & Deployment with Ansible
+# End-to-End IaC Web Architecture Using Terraform, Ansible, and Azure
 
 ## 📄 Project Overview
 
